@@ -1,5 +1,6 @@
 # adopt-me
-A React Project, originally by Brian holt: A complete Intro to React v5,
+
+A React Project, originally developed by Brian Holt: A complete Intro to React v5,
 For refernce, visit [https://github.com/btholt/complete-intro-to-react-v5](https://github.com/btholt/complete-intro-to-react-v5)
 
 ## Scripts
@@ -7,6 +8,7 @@ For refernce, visit [https://github.com/btholt/complete-intro-to-react-v5](https
 In the project directory, you can run:
 
 ### `npm install`
+
 Sets up project.
 
 ### `npm run dev`
