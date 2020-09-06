@@ -2,9 +2,9 @@ import React from 'react';
 import { navigate } from '@reach/router';
 import pet from '@frontendmasters/pet';
 import Carousel from './Carousel';
-import ErrorBoundary from './ErrorBoundary';
-import ThemeContext from './ThemeContext';
-import Modal from "./Modal";
+import ErrorBoundary from '../error-handling/ErrorBoundary';
+import ThemeContext from '../context/ThemeContext';
+import Modal from "../modals/Modal";
 
 class Details extends React.Component {
     state = {
